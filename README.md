@@ -5,7 +5,7 @@ Instead of specifying the API version in the URI, it is specified in the HTTP Ac
 
 Example:
 
-  $ curl -H "accept: application/json; version=1" http://example.com/posts
+    $ curl -H "accept: application/json; version=1" http://example.com/posts
 
 
 Here are some links with more information:
